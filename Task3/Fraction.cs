@@ -12,7 +12,7 @@ namespace Task3
         private int num;
         private int den;
 
-        //Свойства доступа типа integer
+        //Свойство доступа для числителя
         int numerator 
         {
             get => num;
@@ -21,7 +21,7 @@ namespace Task3
                 num = value;
             }
         }
-
+        //Свойство доступа для знаменателя
         int denominator
         {
             get => den;
