@@ -1,0 +1,5 @@
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\ComplexStruct\bin\Debug\ComplexStruct.exe.config
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\ComplexStruct\bin\Debug\ComplexStruct.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\ComplexStruct\bin\Debug\ComplexStruct.pdb
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\ComplexStruct\obj\Debug\ComplexStruct.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\ComplexStruct\obj\Debug\ComplexStruct.pdb

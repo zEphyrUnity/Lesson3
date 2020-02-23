@@ -1,0 +1,5 @@
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\Task3\bin\Debug\Task3.exe.config
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\Task3\bin\Debug\Task3.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\Task3\bin\Debug\Task3.pdb
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\Task3\obj\Debug\Task3.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson3\Lesson3\Task3\obj\Debug\Task3.pdb
